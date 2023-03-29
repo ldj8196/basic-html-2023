@@ -62,7 +62,12 @@ Java 개발자 과정 프론트엔드 리포지토리
         - Masonry layouyt Library
         - ImageLoaded Library
         - Lightbox 구현
+    - Parallex Scrolling Web
 
 7일차 핀터레스트 스타일 클로닝
 
 <img src="https://raw.githubusercontent.com/ldj8196/basic-html-2023/main/image/portfolio1.png" width="700">
+
+Parallax Scrolling Web
+
+<img src="https://raw.githubusercontent.com/ldj8196/basic-html-2023/main/image/portfolio2.png" width="700">
