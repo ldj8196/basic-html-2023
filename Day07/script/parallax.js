@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    // TODO
+
 });
 
 $(window).scroll(function() {
@@ -23,4 +23,5 @@ $(window).scroll(function() {
         'top' : value*0.5+'px',
         'left' : value*1.2+'px'
     });
+    
 });
