@@ -86,7 +86,7 @@ Grayscale Single Page Template
 ## 9일차
 - 프론트엔드 실습
     - SB Admin Page
-        - Bootstrap
+        - [Bootstrap](https://getbootstrap.com/)
         - Chart.js
 
 SB Admin Page 중간 단계
